@@ -3,76 +3,77 @@ import BurgerImage from '../assets/burger.jpg';
 
 export const Data = [
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
     },
     {
-        name: "Efso Burger",
+        name: "King Burger",
         image: BurgerImage,
-        content: "150 GR Kasap Burger,Patetes,Turşu",
+        content: "150 GR Butcher Burger, Potatoes, Pickles",
         price: 250
-    }
+    },
+    
 ]
 

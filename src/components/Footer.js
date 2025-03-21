@@ -14,7 +14,7 @@ export const Footer = () => {
                 <InstagramIcon/>
                 <XIcon/>
             </div>
-            <p>Tüm Hakları Saklıdır | Burger Yiyelim</p>
+            <p>All rights reserved | Burger</p>
         </div>
       )
 }

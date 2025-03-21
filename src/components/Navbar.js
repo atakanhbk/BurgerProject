@@ -9,10 +9,10 @@ export const Navbar = () => {
       <div className="main">
         <img src={BurgerLogo} alt="" />
         <div className="mainLink">
-          <Link to="/">Anasayfa</Link>
+          <Link to="/">Home</Link>
           <Link to="/menu">Menu</Link>
-          <Link to="/about">Hakkımızda</Link>
-          <Link to="/contact">İletişim</Link>
+          <Link to="/about">About Us</Link>
+          <Link to="/contact">Contact</Link>
         </div>
       </div>
     </div>

@@ -10,25 +10,25 @@ export const Contact = () => {
         style={{ backgroundImage: `url(${BannerImage})` }}
       ></div>
       <div className="rightSide">
-        <h1>Bizimle İletişime Geçin</h1>
+        <h1>Please Contact Us...</h1>
         <form>
-          <label>Ad Soyad</label>
+          <label>Name&Surname</label>
           <input
             type="text"
             name="name"
-            placeholder="Lütfen adınızı soyadınızı giriniz..."
+            placeholder="Please enter your name..."
           />
           <label>Email</label>
           <input
             type="email"
             name="email"
-            placeholder="Lütfen emailinizi giriniz..."
+            placeholder="Please enter your email..."
           />
-          <label>Mesajınız</label>
+          <label>Your Message</label>
           <textarea
             rows="6"
             name="message"
-            placeholder="Lütfen mesajınızı giriniz..."
+            placeholder="Please enter your message"
           ></textarea>
         </form>
       </div>

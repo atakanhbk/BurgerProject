@@ -1,5 +1,5 @@
 import React from 'react';
-import BannerImage from '../assets/banneryeni.jpg';
+import BannerImage from '../assets/bannerNew.jpg';
 import '../styles/About.css';
 
 export const About = () => {
@@ -10,7 +10,7 @@ export const About = () => {
         style={{ backgroundImage: `url(${BannerImage})` }}
       ></div>
       <div className="aboutBottom">
-        <h1>Hakkımızda</h1>
+        <h1>About Us</h1>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel corrupti
           culpa, numquam ut eaque maiores enim accusantium harum corporis totam,
